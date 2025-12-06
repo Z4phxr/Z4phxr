@@ -41,3 +41,4 @@ A third-year Computer Science student specializing in administrative systems man
 ## Currently Looking For  
 Opportunities in **Machine Learning**, **Data Science**, or **AI-related internships** where I can apply my Python skills, expand my ML knowledge, and contribute to meaningful projects.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4phxr)](https://github.com/anuraghazra/github-readme-stats)
