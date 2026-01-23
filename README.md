@@ -37,7 +37,3 @@ A third-year Computer Science student specializing in administrative systems man
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## Currently Looking For  
-Opportunities in **Machine Learning**, **Data Science**, or **AI-related internships** where I can apply my Python skills, expand my ML knowledge, and contribute to meaningful projects.
