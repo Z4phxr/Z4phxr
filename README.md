@@ -2,13 +2,13 @@
 
 A third-year Computer Science student specializing in administrative systems management, with a growing passion for Artificial Intelligence and Machine Learning. Although my academic background is rooted in systems administration, I’ve naturally gravitated toward the AI field, especially areas such as Machine Learning, Computer Vision, and algorithmic problem-solving. I enjoy exploring how code can model complex systems and turn abstract ideas into real, working solutions.
 
----
+Cool side projects:
 
-## About Me
+https://learningplatform-production.up.railway.app/
 
-- I’m currently focused on developing skills in Machine Learning, Data Science, and AI engineering.  
-- I have foundational knowledge in statistics and probability, supported by academic coursework and hands-on experimentation.  
-- I frequently participate in technical conferences, scientific circles, and hackathons.  
+https://rivio.up.railway.app/
+
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,6 @@ A third-year Computer Science student specializing in administrative systems man
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
