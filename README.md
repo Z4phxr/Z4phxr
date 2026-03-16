@@ -8,6 +8,8 @@ https://learningplatform-production.up.railway.app/
 
 https://rivio.up.railway.app/
 
+https://realestatepricepredictor-production.up.railway.app/
+
 
 
 ### Languages
