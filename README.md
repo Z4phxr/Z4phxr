@@ -1,14 +1,15 @@
 # Hi, I'm Kinga
 
-A third-year Computer Science student specializing in administrative systems management, with a growing passion for Artificial Intelligence and Machine Learning. Although my academic background is rooted in systems administration, I’ve naturally gravitated toward the AI field, especially areas such as Machine Learning, Computer Vision, and algorithmic problem-solving. I enjoy exploring how code can model complex systems and turn abstract ideas into real, working solutions.
+I work across the full stack, but my real passion lies in Machine Learning and AI, particularly in finding practical, meaningful ways to apply them. I love working with data and crafting solutions that tackle real-world problems with simplicity and purpose.
 
-Cool side projects:
 
-https://learningplatform-production.up.railway.app/
+### Cool side projects:
 
-https://rivio.up.railway.app/
+- [Brainstack](https://brainstack.up.railway.app/) - Learning platform for creating courses and study materials, with flashcards and structured learning content.
 
-https://realestatepricepredictor-production.up.railway.app/
+- [Rivio](https://rivio.up.railway.app/) - Habit tracker web app for daily routine and self-improvement.
+
+- [Real Estate Price Predictor](https://realestatepricepredictor-production.up.railway.app/) - ML model predicting apartment prices in Poland, visualized on an interactive map.
 
 
 
