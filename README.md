@@ -3,14 +3,6 @@
 I work across the full stack, but my real passion lies in Machine Learning and AI, particularly in finding practical, meaningful ways to apply them. I love working with data and crafting solutions that tackle real-world problems with simplicity and purpose.
 
 
-### Cool side projects:
-
-- [Brainstack](https://brainstack.up.railway.app/) - Learning platform for creating courses and study materials, with flashcards and structured learning content.
-
-- [Rivio](https://rivio.up.railway.app/) - Habit tracker web app for daily routine and self-improvement.
-
-- [Real Estate Price Predictor](https://realestatepricepredictor-production.up.railway.app/) - ML model predicting apartment prices in Poland, visualized on an interactive map.
-
 
 
 ### Languages
